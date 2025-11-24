@@ -4,7 +4,7 @@ import discord
 import pyttsx3
 
 # --- CONFIG ---
-DISCORD_TOKEN = "MTQ0MjE2ODE2NzY0MzM1MzE5MA.GiyIK_.09-wip_rh7S6GrwPQRl8jcogFGLNviYIZ616xI"
+DISCORD_TOKEN = ""
 OPENROUTER_API_KEY = "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"
 MODEL = "mistralai/mistral-7b-instruct:free"
 BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
